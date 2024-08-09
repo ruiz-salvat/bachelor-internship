@@ -1,0 +1,147 @@
+﻿<siteMeasurements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<measurementSiteReference id="PZH01_MST_0690_00" version="6" targetClass="MeasurementSiteRecord"/>
+<measurementTimeDefault>2019-09-30T07:17:00Z</measurementTimeDefault>
+<measuredValue index="1">
+    <measuredValue>
+        <basicData xsi:type="TrafficFlow">
+            <vehicleFlow>
+                <vehicleFlowRate>960</vehicleFlowRate>
+            </vehicleFlow>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="2">
+    <measuredValue>
+        <basicData xsi:type="TrafficFlow">
+            <vehicleFlow>
+                <vehicleFlowRate>60</vehicleFlowRate>
+            </vehicleFlow>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="3">
+    <measuredValue>
+        <basicData xsi:type="TrafficFlow">
+            <vehicleFlow>
+                <vehicleFlowRate>0</vehicleFlowRate>
+            </vehicleFlow>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="4">
+    <measuredValue>
+        <basicData xsi:type="TrafficFlow">
+            <vehicleFlow>
+                <vehicleFlowRate>1020</vehicleFlowRate>
+            </vehicleFlow>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="5">
+    <measuredValue>
+        <basicData xsi:type="TrafficSpeed">
+            <averageVehicleSpeed numberOfInputValuesUsed="16" standardDeviation="3.72">
+                <speed>51</speed>
+            </averageVehicleSpeed>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="6">
+    <measuredValue>
+        <basicData xsi:type="TrafficSpeed">
+            <averageVehicleSpeed numberOfInputValuesUsed="1">
+                <speed>55</speed>
+            </averageVehicleSpeed>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="7">
+    <measuredValue>
+        <basicData xsi:type="TrafficSpeed">
+            <averageVehicleSpeed numberOfInputValuesUsed="0">
+                <speed>-1</speed>
+            </averageVehicleSpeed>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="8">
+    <measuredValue>
+        <basicData xsi:type="TrafficSpeed">
+            <averageVehicleSpeed numberOfInputValuesUsed="17" standardDeviation="3.73">
+                <speed>51</speed>
+            </averageVehicleSpeed>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="9">
+    <measuredValue>
+        <basicData xsi:type="TrafficFlow">
+            <vehicleFlow>
+                <vehicleFlowRate>1140</vehicleFlowRate>
+            </vehicleFlow>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="10">
+    <measuredValue>
+        <basicData xsi:type="TrafficFlow">
+            <vehicleFlow>
+                <vehicleFlowRate>0</vehicleFlowRate>
+            </vehicleFlow>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="11">
+    <measuredValue>
+        <basicData xsi:type="TrafficFlow">
+            <vehicleFlow>
+                <vehicleFlowRate>0</vehicleFlowRate>
+            </vehicleFlow>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="12">
+    <measuredValue>
+        <basicData xsi:type="TrafficFlow">
+            <vehicleFlow>
+                <vehicleFlowRate>1140</vehicleFlowRate>
+            </vehicleFlow>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="13">
+    <measuredValue>
+        <basicData xsi:type="TrafficSpeed">
+            <averageVehicleSpeed numberOfInputValuesUsed="19" standardDeviation="5.19">
+                <speed>52</speed>
+            </averageVehicleSpeed>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="14">
+    <measuredValue>
+        <basicData xsi:type="TrafficSpeed">
+            <averageVehicleSpeed numberOfInputValuesUsed="0">
+                <speed>-1</speed>
+            </averageVehicleSpeed>
+        </basicData>
+    </measuredValue>
+</measuredValue>
+<measuredValue index="15">
+    <measuredValue>
+        <basicData xsi:type="TrafficSpeed">
+            <averageVehicleSpeed numberOfInputValuesUsed="0">
+                <speed>-1</speed>
+            </averageVehicleSpeed>
+        </measuredValue>
+    </measuredValue>
+    <measuredValue index="16">
+        <measuredValue>
+            <basicData xsi:type="TrafficSpeed">
+                <averageVehicleSpeed numberOfInputValuesUsed="19" standardDeviation="5.19">
+                    <speed>52</speed>
+                </averageVehicleSpeed>
+            </basicData>
+        </measuredValue>
+    </measuredValue>
+</siteMeasurements>
